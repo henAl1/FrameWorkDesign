@@ -1,1 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/
+.idea/*.xml
+.idea
+.idea/FrameWorkDesign.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+AbstractApplication/__pycache__/
+AndroidApplication/__pycache__/
